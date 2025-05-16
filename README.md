@@ -6,8 +6,8 @@
 ![sum](https://github.com/user-attachments/assets/301b3571-2864-4089-b8ce-a8093a60857a)
 
 
-Simple Calculator – Project Documentation
-Overview:
+Simple Calculator – Project Documentation:
+
 
 This project is a web-based simple calculator that allows users to perform basic arithmetic operations: addition, subtraction, multiplication, division, and modulus. The calculator takes two numerical inputs, performs the selected operation, and displays the result. It also includes a clear button to reset all fields.
 Structure:
