@@ -1,5 +1,1 @@
-![sum](https://github.com/user-attachments/assets/dccffb0e-bbae-44ea-b3e4-e6a55d62fa7f)
-![sub](https://github.com/user-attachments/assets/a6c089cd-55cf-4422-8442-6b15648cc822)
-![sub](https://github.com/user-attachments/assets/2f7eb0b1-bd82-4a3d-bd84-21890d894c4b)
-![modulo](https://github.com/user-attachments/assets/030086ac-17e1-4ebe-a887-cebeedffd2d6)
-![div](https://github.com/user-attachments/assets/dd28ac03-9527-486b-acb2-bcc266e145df)
+
